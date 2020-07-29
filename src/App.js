@@ -6,6 +6,7 @@ import ServerList from './UI/serverList/serverList'
 function App() {
   return (
     <div className="App">
+    AV1RAM
       <ServerList />
     </div>
   );
